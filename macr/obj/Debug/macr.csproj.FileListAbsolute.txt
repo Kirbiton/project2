@@ -1,0 +1,10 @@
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\Консоль\macr\bin\Debug\macr.exe.config
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\Консоль\macr\bin\Debug\macr.exe
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\Консоль\macr\bin\Debug\macr.pdb
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\Консоль\macr\obj\Debug\macr.csproj.AssemblyReference.cache
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\Консоль\macr\obj\Debug\macr.Properties.Resources.resources
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\Консоль\macr\obj\Debug\macr.csproj.GenerateResource.cache
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\Консоль\macr\obj\Debug\macr.csproj.CoreCompileInputs.cache
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\Консоль\macr\obj\Debug\macr.exe
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\Консоль\macr\obj\Debug\macr.pdb
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\Консоль\macr\obj\Debug\macr.Form1.resources

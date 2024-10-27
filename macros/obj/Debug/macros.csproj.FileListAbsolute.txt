@@ -1,0 +1,7 @@
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\Консоль\macros\bin\Debug\macros.exe.config
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\Консоль\macros\bin\Debug\macros.exe
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\Консоль\macros\bin\Debug\macros.pdb
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\Консоль\macros\obj\Debug\macros.csproj.AssemblyReference.cache
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\Консоль\macros\obj\Debug\macros.csproj.CoreCompileInputs.cache
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\Консоль\macros\obj\Debug\macros.exe
+C:\Users\tohan\OneDrive\Рабочий стол\Кодики\Консоль\macros\obj\Debug\macros.pdb
